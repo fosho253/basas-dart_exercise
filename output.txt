@@ -1,0 +1,11 @@
+Customer: Paolo Marco Basas
+Cups ordered: 4
+Price per cup: 80.0
+Subtotal: 320.0
+Discount card applied? true
+Discount: 20.0
+Total: 300.0
+Budget: 350.0
+Is the total within budget? true
+Full 3-cup carriers: 1, loose cups: 1
+After adding 1 free cup: 5 cups
